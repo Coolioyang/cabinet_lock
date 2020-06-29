@@ -1,0 +1,9 @@
+/MDK-ARM/build
+/MDK-ARM/DebugConfig
+/MDK-ARM/JLinkLog.txt
+/MDK-ARM/JLinkSettings.ini
+/MDK-ARM/cabinet_lock.uvguix.eddie
+/MDK-ARM/cabinet_lockuvguix.eddie
+/MDK-ARM/EventRecorderStub.scvd
+/.mxproject
+/cabinet_controller.ioc
